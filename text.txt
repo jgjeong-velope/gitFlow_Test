@@ -1,2 +1,4 @@
 this is a test file for git
 this is a test file for git2
+---
+this is a test file for git3
